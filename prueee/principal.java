@@ -22,6 +22,7 @@ public class principal {
 		else
 			System.out.println("ups, perdiste...");
                         System.out.println("ups, perdiste...");
+                        System.out.println("ups, perdiste...");
 
 
 	}
